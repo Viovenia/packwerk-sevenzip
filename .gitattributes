@@ -1,0 +1,5 @@
+# The unmodified 7-Zip 26.06 sources and license texts keep their original bytes (CRLF line endings).
+LICENSE -text
+Sources/SevenZipC/Asm/** -text
+Sources/SevenZipC/C/** -text
+Sources/SevenZipC/CPP/** -text
